@@ -1,9 +1,9 @@
 ---
-name: Jackie Chung
-career: Ingeniería de Sistemas y Computación
-semester: 8to Semestre
-description: Soy Jackie Chung, estudiante de la Universidad Tecnologica de Panamá. Me apasiona las nuevas tendencias tecnologicas y tambíen los deportes. Aspiro trabajar en el campo de ciencias de datos.
-hobbies: Gaming, Volleyball, Musica
-image: https://img.freepik.com/free-photo/closeup-shot-cup-cappuccino-with-beautiful-coffee-art_181624-24360.jpg
-github: Fu-wian
+name: Tu Nombre Completo
+career: Tu Carrera (ej. Ingeniería de Software)
+semester: Tu semestre (ej. 5to semestre)
+description: Escribe una breve descripción sobre ti en 2-3 oraciones. ¿Qué te apasiona? ¿Cuál es tu meta profesional?
+hobbies: Tus hobbies separados por comas (ej. Programar, Leer, Gaming)
+image: https://url-de-tu-foto.jpg
+github: tu-usuario-de-github
 ---
