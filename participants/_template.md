@@ -1,9 +1,9 @@
 ---
-name: Arquimedes morán
-career: Ingenieria en sistema y computación 
-semester: 3er semestre
-description: Me gusta el ANIME, dormir y pasar le tiempo con amigos. No tengo una meta profesional .  
-hobbies: Ver ANIME, videojuegos, ejercicio, correr 
+name: Tu Nombre Completo
+career: Tu Carrera (ej. Ingeniería de Software)
+semester: Tu semestre (ej. 5to semestre)
+description: Escribe una breve descripción sobre ti en 2-3 oraciones. ¿Qué te apasiona? ¿Cuál es tu meta profesional?
+hobbies: Tus hobbies separados por comas (ej. Programar, Leer, Gaming)
 image: https://url-de-tu-foto.jpg
-github: Sung-Jinwoo002
+github: tu-usuario-de-github
 ---
