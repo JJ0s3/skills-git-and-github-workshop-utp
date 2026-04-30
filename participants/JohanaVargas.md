@@ -1,9 +1,9 @@
 ---
-name: Tu Nombre Completo
-career: Tu Carrera (ej. Ingeniería de Software)
-semester: Tu semestre (ej. 5to semestre)
-description: Escribe una breve descripción sobre ti en 2-3 oraciones. ¿Qué te apasiona? ¿Cuál es tu meta profesional?
-hobbies: Tus hobbies separados por comas (ej. Programar, Leer, Gaming)
-image: https://url-de-tu-foto.jpg
-github: tu-usuario-de-github
+name: Johana Elisa Vargas
+career: Ingeniería en Sistemas
+semester: 9no semestre
+description: Me apasiona el conocimiento y conocer sobre todo lo que no sé. Me gusta aprender y experimentar nuevas cosas. Me gustan las tecnologías inalámbricas.
+hobbies: Leer, ver anime, cualquier manualidad divertida.
+image: https://avatars.githubusercontent.com/u/134746439?v=4
+github: doggylolly
 ---
